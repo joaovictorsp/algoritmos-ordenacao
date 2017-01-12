@@ -1,6 +1,6 @@
-#Algoritmos de Ordenação
+<b>Algoritmos de Ordenação</b>
 
-[*] Bubble Sort Original
+[*]<b>Bubble Sort Original</b>
  Complexidade O(n²)
 
 [*] Bubble Sort Melhorado
