@@ -1,0 +1,4 @@
+#		BubbleSort BubbleSort_melhorado QuickSort_ini QuickSort_meio InsertionSort ShellSort SelectionSort HeapSort MergeSort 
+crescente	
+decrescente
+aleatorio
