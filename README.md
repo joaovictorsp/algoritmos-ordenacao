@@ -1,4 +1,4 @@
-<b>#Algoritmos de Ordenação</b><br />
+#<b>Algoritmos de Ordenação</b><br />
 
 <b>Bubble Sort Original</b><br />
  Complexidade O(n²)
