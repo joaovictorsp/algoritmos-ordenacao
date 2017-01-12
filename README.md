@@ -36,4 +36,13 @@
 <br />
 <b>Merge Sort</b><br />
  Complexidade O(n) no melhor caso e Θ(n*log(n)) no pior caso e no caso médio<br />
+<br />
+<b>Gráfico de comparação dos algoritmos com entrada randômica</b>
+ ![alt tag](https://github.com/joaovictorsp/joaovictorsp/blob/master/graficos/graficoAleatorio.png)
+ <br />
+<b>Gráfico de comparação dos algoritmos com entrada crescente</b>
+ ![alt tag](https://github.com/joaovictorsp/joaovictorsp/blob/master/graficos/graficoCrescente.png)
+ <br />
+<b>Gráfico de comparação dos algoritmos com entrada decrescente</b>
+ ![alt tag](https://github.com/joaovictorsp/joaovictorsp/blob/master/graficos/graficoDecrescente.png)
 
