@@ -1,9 +1,9 @@
-	Algoritmos de Ordenação
+#Algoritmos de Ordenação
 
-[*]<h> Bubble Sort Original </h>
+[*] Bubble Sort Original
  Complexidade O(n²)
 
-[*]<h> Bubble Sort Melhorado </h>
+[*] Bubble Sort Melhorado
  Complexidade O(n) no melhor caso e O(n²) no pior caso
  ->melhor caso = vetor ordenado
  ->pior caso = vetor ordenado inversamente
