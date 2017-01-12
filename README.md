@@ -1,36 +1,38 @@
-<b>Algoritmos de Ordenação</b>
+<b>#Algoritmos de Ordenação</b><br />
 
-[*]<b>Bubble Sort Original</b>
+<b>Bubble Sort Original</b><br />
  Complexidade O(n²)
+<br />
+[<b>Bubble Sort Melhorado</b>
+<br />
+ Complexidade O(n) no melhor caso e O(n²) no pior caso<br />
+ <p>melhor caso = vetor ordenado<br />
+ <p>pior caso = vetor ordenado inversamente<br />
 
-[*] Bubble Sort Melhorado
- Complexidade O(n) no melhor caso e O(n²) no pior caso
- ->melhor caso = vetor ordenado
- ->pior caso = vetor ordenado inversamente
-
-[*] Quick Sort pivo inicio
- Complexidade no melhor caso Θ(n*log(n)), no caso médio é O(n*log(n)) e no pior caso Θ(n²)
- ->melhor caso = quando reparte a lista no meio (partições com tamanhos iguais)
- ->pior caso = quando a lista está ordenada em ordem crescente ou decrescente
+<b>Quick Sort pivo inicio</b><br />
+ Complexidade no melhor caso Θ(n*log(n)), no caso médio é O(n*log(n)) e no pior caso Θ(n²)<br />
+ <p>melhor caso = quando reparte a lista no meio (partições com tamanhos iguais)<br />
+ <p>pior caso = quando a lista está ordenada em ordem crescente ou decrescente<br />
  
-[*] Quick Sort pivo meio
- Complexidade no melhor caso Θ(n*log(n)), no caso médio é O(n*log(n)) e no pior caso Θ(n²)
- ->pior caso = pivo é sempre o maior ou melhor elemento
- ->melhor caso = quando reparte a lista no meio (partições com tamanhos iguais)
+<b>Quick Sort pivo meio</b><br />
+ Complexidade no melhor caso Θ(n*log(n)), no caso médio é O(n*log(n)) e no pior caso Θ(n²)<br />
+ <p>pior caso = pivo é sempre o maior ou melhor elemento<br />
+ <p>melhor caso = quando reparte a lista no meio (partições com tamanhos iguais)<br />
 
-[*] Insertion Sort 
- Complexidade O(n) no melhor caso e O(n²) no pior caso
- ->melhor caso = vetor ordenado
- ->pior caso = vetor ordenado inversamente
+<b>Insertion Sort </b><br />
+ Complexidade O(n) no melhor caso e O(n²) no pior caso<br />
+ <p>melhor caso = vetor ordenado<br />
+ <p>pior caso = vetor ordenado inversamente<br />
 
-[*] Shell Sort
- Complexidade O(n) no melhor caso e O(n*log(n)) no pior caso 
+<b>Shell Sort</b><br />
+ Complexidade O(n) no melhor caso e O(n*log(n)) no pior caso <br />
 
-[*] Selection Sort
- Complexidade O(n²)
+<b>Selection Sort</b><br />
+ Complexidade O(n²)<br />
 
-[*] Heap Sort
- Complexidade O(n*log(n))
+<b>Heap Sort</b><br />
+ Complexidade O(n*log(n))<br />
 
-[*] Merge Sort
- Complexidade O(n) no melhor caso e Θ(n*log(n)) no pior caso e no caso médio
+<b>Merge Sort</b><br />
+ Complexidade O(n) no melhor caso e Θ(n*log(n)) no pior caso e no caso médio<br />
+
