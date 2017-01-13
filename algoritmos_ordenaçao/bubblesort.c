@@ -2,13 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 
-void troca (int *x,int *y) {
-	int aux;
-	*x = aux;
-	*x = *y;
-	*y = aux;
-}
-
 void bubbleSort(int *vet, int n) {
 	int i,j,aux;
 	for (j = 0; j < n - 1; j++) {
